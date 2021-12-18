@@ -1,6 +1,6 @@
 # Oi, meu nome e kima, tenho 13 anos.
 ![giphy](https://user-images.githubusercontent.com/96356050/146657282-f9c22276-fc6e-437c-8347-9b63943c1399.gif)
-## Eu estudo as lingaguens
+## Eu estudo as linguagens
 - ruby
 - python
 - HTML5/CSS3
