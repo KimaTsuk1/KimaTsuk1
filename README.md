@@ -1,3 +1,12 @@
-### Oi, meu nome e kima, tenho 13 anos.
-![cat-cute](https://user-images.githubusercontent.com/96356050/146656254-73d9ee5a-b824-43d0-a7ce-2a94911aa567.gif)
-
+# Oi, meu nome e kima, tenho 13 anos.
+![giphy](https://user-images.githubusercontent.com/96356050/146657282-f9c22276-fc6e-437c-8347-9b63943c1399.gif)
+## Eu estudo as lingaguens
+- ruby
+- python
+- html/css
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=32/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width=32/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=32/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=32/>
+</p>
