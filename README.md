@@ -1,7 +1,7 @@
 
 ## Olá. Eu sou o Kima.
 - 🏡 Sou de uma pequena cidade no interior do ceará 
-- 🕳️ Como passatempo, gosto de sair e assistir filmes como **Fight Club** e **Donnie Darko**
+- 🕳️ Como passa-tempo, gosto de sair e assistir filmes
 
 ## Atualmente
 
